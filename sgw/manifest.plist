@@ -13,18 +13,7 @@
 					<key>url</key>
 					<string>https://github.com/eriios/App/raw/master/sgw/ToxApp.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/21263118/ToxApp/ios57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/21263118/ToxApp/ios512.jpg</string>
-				</dict>
+				
 			</array>
 			<key>metadata</key>
 			<dict>
