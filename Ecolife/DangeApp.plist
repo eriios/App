@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>tw.com.eri.sgweis</string>
+				<string>Eri.com.tw.EcolifeDangeApp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>sgweis</string>
+				<string>DangeApp</string>
 			</dict>
 		</dict>
 	</array>
