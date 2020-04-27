@@ -2,31 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AppPrj.ipa</key>
+	<key>items</key>
 	<array>
 		<dict>
-			<key>architectures</key>
+			<key>assets</key>
 			<array>
-				<string>armv7</string>
-				<string>arm64</string>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/eriios/App/raw/master/MoiTeam/iCareApp.ipa</string>
+				</dict>
 			</array>
-			<key>certificate</key>
+			<key>metadata</key>
 			<dict>
-				<key>SHA1</key>
-				<string></string>
-				<key>dateExpires</key>
-				<string></string>
-				<key>type</key>
-				<string>Unknown</string>
-			</dict>
-			<key>name</key>
-			<string>AppPrj.app</string>
-			<key>team</key>
-			<dict>
-				<key>id</key>
-				<string>HEG8C84968</string>
-				<key>name</key>
-				<string>ENVIRONMENT RESOURCE INFORNATION CO., LTD.</string>
+				<key>bundle-identifier</key>
+				<string>iCareApp.eri.com.tw</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>iCareApp</string>
 			</dict>
 		</dict>
 	</array>
