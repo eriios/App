@@ -24,7 +24,7 @@
 
 					<key>url</key>
 
-					<string>https://github.com/eriios/App/raw/master/EMSApp/Teis_ERI.ipa</string>
+					<string>https://github.com/eriios/App/raw/master/EMSApp/TEIS.ipa</string>
 
 				</dict>
 
@@ -36,7 +36,7 @@
 
 				<key>bundle-identifier</key>
 
-				<string>com.eri.epib.TEIS</string>
+				<string>www.teis.gov.taipei</string>
 
 				<key>bundle-version</key>
 
