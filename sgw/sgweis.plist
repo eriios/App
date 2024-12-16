@@ -16,10 +16,18 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
+				<key>Architectures</key>
+				<array>
+					<string>arm64</string>
+				</array>
+				<key>CFBundleIdentifier</key>
 				<string>tw.com.eri.sgweis</string>
-				<key>bundle-version</key>
+				<key>CFBundleShortVersionString</key>
 				<string>1.0.2</string>
+				<key>CFBundleVersion</key>
+				<string>1</string>
+				<key>SigningIdentity</key>
+				<string>00CC6B5717D596F68A3EA2C351ACB571A50A6CAD</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
