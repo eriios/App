@@ -20,12 +20,6 @@
 				<string>tw.com.eri.sgweis</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
-				<key>CFBundleVersion</key>
-				<key>ArchiveVersion</key>
-				<integer>2</integer>
-				<key>CreationDate</key>
-				<date>2024-12-16T07:00:51Z</date>
-				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
