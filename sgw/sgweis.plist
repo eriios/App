@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/eriios/App/raw/master/sgw/sgweis.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>Architectures</key>
-				<array>
-					<string>arm64</string>
-				</array>
-				<key>CFBundleIdentifier</key>
-				<string>tw.com.eri.sgweis</string>
-				<key>CFBundleShortVersionString</key>
-				<string>1.0.2</string>
-				<key>CFBundleVersion</key>
-				<string>1</string>
-				<key>SigningIdentity</key>
-				<string>00CC6B5717D596F68A3EA2C351ACB571A50A6CAD</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>sgweis</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+ <dict>
+  <key>items</key>
+  <array>
+   <dict>
+    <key>assets</key>
+    <array>
+     <dict>
+      <key>kind</key>
+      <string>software-package</string>
+      <key>url</key>
+      <string>https://github.com/eriios/App/raw/master/sgw/sgweis.ipa</string>
+     </dict>
+    </array>
+    <key>metadata</key>
+    <dict>
+     <key>bundle-identifier</key>
+     <string>tw.com.eri.sgweis</string>
+     <key>bundle-version</key>
+     <string>1.0.2</string>
+     <key>kind</key>
+     <string>software</string>
+     <key>title</key>
+     <string>土壤及地下水資訊支援系統</string>
+    </dict>
+   </dict>
+  </array>
+ </dict>
 </plist>
